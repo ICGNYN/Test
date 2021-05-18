@@ -1,2 +1,2 @@
 # GitHubとwebサイトのテスト
-# Reactを用いたサンプルサイトをGitHubのwebサーバーに公開してみた
+# Github pages使ってGitHubのwebサーバーに公開してみた
